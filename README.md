@@ -1,9 +1,11 @@
 # RealtekMAC
 RMCS - Realtek Mac Changer Script
 
-Current version: 1.1
+Current version: 1.2
 
-ONLY FOR REALTEK RTL8723bs SDIO!
+Support:
+1. Realtek 8723bs
+2. Realtek 8188eu
 ## What does the tool do?
 This tool will change your original MAC to New Mac! 
 Please rerun for other MAC!
