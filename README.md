@@ -7,7 +7,7 @@ Support:
 1. Realtek 8723bs
 2. Realtek 8188eu
 ## What does the tool do?
-This tool will change your original MAC to New Mac! 
+This tool will change your original MAC to new Mac! 
 Please rerun for other MAC!
 Default generates Unknown Vendor MAC address! 
 
